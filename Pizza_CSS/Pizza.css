@@ -1,0 +1,90 @@
+body {
+    background-color:lightslategrey;
+}
+
+h1 {
+    font-family: Comic Sans Ms;
+    font-size: 40px;
+    color: maroon;
+}
+
+h3 {
+    font-family: Comic Sans Ms;
+    font-size: 25px;
+    color: maroon;
+}
+
+#menuBG {
+    width: 560px;
+    height:470px;
+    margin: 10px auto;
+    background-color: lightslategrey;
+}
+
+#frmMenu {
+    width: 400px;
+    height: 200px;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+    color: mediumblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.right {
+    width: 200px;
+    height: 200px;
+    color: mediumblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 40ch;
+    padding-top: 1px;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#cart {
+    top: 0; margin: 0px auto;
+    width: 400px;
+    height: 200px;
+}
+
+#btnOrder {
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+}
+
+#btnOrder {
+    border-radius: 4px;
+    background-color: rgb(255, 255, 224);
+    color: black;
+    font-style: italic;
+    border-style: groove;
+}
+
+#btnOrder:hover {
+ background-color: rgb(255, 219, 219);
+}
+
+.middle {
+	width:200px;
+	height:200px;
+	float:left;
+    color: mediumblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
